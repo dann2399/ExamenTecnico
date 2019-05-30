@@ -1,0 +1,11 @@
+C:\Users\Däni\Desktop\examen\FINCAS\FINCAS\bin\Debug\netcoreapp2.0\FINCAS.deps.json
+C:\Users\Däni\Desktop\examen\FINCAS\FINCAS\bin\Debug\netcoreapp2.0\FINCAS.runtimeconfig.json
+C:\Users\Däni\Desktop\examen\FINCAS\FINCAS\bin\Debug\netcoreapp2.0\FINCAS.runtimeconfig.dev.json
+C:\Users\Däni\Desktop\examen\FINCAS\FINCAS\bin\Debug\netcoreapp2.0\FINCAS.dll
+C:\Users\Däni\Desktop\examen\FINCAS\FINCAS\bin\Debug\netcoreapp2.0\FINCAS.pdb
+C:\Users\Däni\Desktop\examen\FINCAS\FINCAS\obj\Debug\netcoreapp2.0\FINCAS.csprojAssemblyReference.cache
+C:\Users\Däni\Desktop\examen\FINCAS\FINCAS\obj\Debug\netcoreapp2.0\FINCAS.csproj.CoreCompileInputs.cache
+C:\Users\Däni\Desktop\examen\FINCAS\FINCAS\obj\Debug\netcoreapp2.0\FINCAS.AssemblyInfoInputs.cache
+C:\Users\Däni\Desktop\examen\FINCAS\FINCAS\obj\Debug\netcoreapp2.0\FINCAS.AssemblyInfo.cs
+C:\Users\Däni\Desktop\examen\FINCAS\FINCAS\obj\Debug\netcoreapp2.0\FINCAS.dll
+C:\Users\Däni\Desktop\examen\FINCAS\FINCAS\obj\Debug\netcoreapp2.0\FINCAS.pdb
